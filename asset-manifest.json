@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/autonomysol.com/static/css/main.f1a032d2.css",
-    "main.js": "/autonomysol.com/static/js/main.d1b1fbe0.js",
+    "main.js": "/autonomysol.com/static/js/main.e9a3b216.js",
     "static/js/453.ed3810f9.chunk.js": "/autonomysol.com/static/js/453.ed3810f9.chunk.js",
     "static/media/mi-1.jpg": "/autonomysol.com/static/media/mi-1.816eaf7d4893a30efbcb.jpg",
     "static/media/ctabg.png": "/autonomysol.com/static/media/ctabg.2f8243fe426377924381.png",
@@ -27,11 +27,11 @@
     "static/media/Word.png": "/autonomysol.com/static/media/Word.b8c0d779c3ad18082bc6.png",
     "index.html": "/autonomysol.com/index.html",
     "main.f1a032d2.css.map": "/autonomysol.com/static/css/main.f1a032d2.css.map",
-    "main.d1b1fbe0.js.map": "/autonomysol.com/static/js/main.d1b1fbe0.js.map",
+    "main.e9a3b216.js.map": "/autonomysol.com/static/js/main.e9a3b216.js.map",
     "453.ed3810f9.chunk.js.map": "/autonomysol.com/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1a032d2.css",
-    "static/js/main.d1b1fbe0.js"
+    "static/js/main.e9a3b216.js"
   ]
 }
