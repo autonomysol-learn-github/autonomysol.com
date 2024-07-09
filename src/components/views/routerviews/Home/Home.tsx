@@ -23,8 +23,8 @@ const Home = () => {
                             <p className='py-4 text-md font-light'>Use the Office JavaScript API to extend functionality for Word, Excel, PowerPoint, and Outlook.</p>
                             <button className="px-3 py-2 min-w-[120px] text-center rounded-md text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Learn more about Office Add-ins</button>
                         </div>
-                        <div className="lg:w-6/12 relative sm:w-full sm:h-full">
-                            <img src={Ms_1} alt="img" className="h-full rounded-md" />
+                        <div className="lg:w-6/12 relative sm:w-auto sm:h-full">
+                            <img src={Ms_1} alt="img" className="h-auto rounded-md" />
                         </div>
                     </div>
                 </div>
