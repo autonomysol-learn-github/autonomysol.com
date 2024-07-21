@@ -12,6 +12,7 @@ import { IoIosArrowForward } from "react-icons/io";
 const Home = () => {
     return (
         <>
+<<<<<<< HEAD
             <div className='w-full mb-6'>
                 <div className="bg-[#006DC1] h-auto md:h-96 lg:h-full flex flex-wrap justify-center">
                     <div className="mx-auto md:mx-8 lg:mx-12 flex flex-col md:flex-row lg:flex-row items-center w-full">
@@ -57,6 +58,18 @@ const Home = () => {
                                     </div>
                                 </div>
                             </div>
+=======
+            <div className='w-full'>
+                <div className="bg-blue-700 flex flex-wrap justify-center">
+                    <div className="mx-12 sm:rounded-lg flex flex-col md:flex-row items-center w-full bg-[#F2F2F2]">
+                        <div className="xl:p-24 sm:p-12 lg:w-6/12 bg-[#F2F2F2] shadow h-full sm:w-full">
+                            <h1 className='xs:text-4xl sm:text-4xl md:text-4xl xl:text-4xl font-inherit font-semibold'>Build powerful applications for Office</h1>
+                            <p className='py-4 text-md font-light'>Use the Office JavaScript API to extend functionality for Word, Excel, PowerPoint, and Outlook.</p>
+                            <button className="px-3 py-2 min-w-[120px] text-center rounded-md text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Learn more about Office Add-ins</button>
+                        </div>
+                        <div className="lg:w-6/12 relative sm:w-auto sm:h-full">
+                            <img src={Ms_1} alt="img" className="h-auto rounded-md" />
+>>>>>>> 82f06b9be5f73b1b062312c65472fcbe48eab19a
                         </div>
 
                         <Contact />
