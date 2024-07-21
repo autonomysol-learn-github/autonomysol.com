@@ -15,12 +15,12 @@ import Suggestions from "../../../../../images/Microsoft/suggestion.png";
 const WordInfo = () => {
     return (
         <>
-            <section className="px-2 space-y-6 bg-[#F2F2F2] py-8 md:py-12 lg:py-8 max-w-8xl mx-auto">
+            <section className="px-2 w-full space-y-6 bg-[#F2F2F2] py-8 md:py-12 lg:py-8 max-w-8xl mx-auto">
                 <div className="flex mx-10 flex-col space-y-4">
                     <h2 className="font-semibold text-2xl md:text-3xl text-center">What can I do with Word?</h2>
                 </div>
 
-                <section className="mt-20 mx-2 md:mx-12 lg:mx-12 pb-8">
+                <section className="mt-20 w-full mx-2 md:mx-12 lg:mx-12 pb-8">
                     <div className="mx-auto mt-8 grid justify-center gap-4 sm:grid-cols-2 md:max-w-[80rem] md:grid-cols-2 lg:grid-cols-3">
                         <div className="relative overflow-hidden rounded-md border bg-white p-2">
                             <div className="flex flex-col justify-between h-full rounded-md p-2">
@@ -75,7 +75,7 @@ const WordInfo = () => {
                     </div>
                 </section>
 
-                <section className="container mx-auto pt-4 pb-4 px-6 lg:px-9">
+                <section className="container w-full mx-auto pt-4 pb-4 px-6 lg:px-9">
                     <div className="card rounded-lg bg-gradient-to-br from-[#ffffff] to-[#90C9E8]">
                         <h2 className="font-semibold text-2xl md:text-3xl text-center pt-6 pb-2 px-8">Word developer resources</h2>
                         <div className='flex justify-center'>

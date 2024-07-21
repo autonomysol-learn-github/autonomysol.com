@@ -7,7 +7,7 @@ const Whatsnew = () => {
     return (
         <>
             <div className='bg-[#FFFFFF]'>
-                <section className="mt-20 mx-8 pb-8">
+                <section className="mt-20 sm:mx-4 md:mx-8 xl:mx-auto pb-8">
                     <p className="font-semibold text-2xl md:text-4xl text-center">What's new in Office Add-ins</p>
                     <div className="mx-auto mt-8 grid justify-center gap-4 sm:grid-cols-2 md:max-w-[80rem] md:grid-cols-2 lg:grid-cols-4">
                         <div className="relative overflow-hidden rounded-md border bg-white p-2">
